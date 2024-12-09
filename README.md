@@ -1,8 +1,8 @@
 - 👋 Hi, I'm @Stargazer2005. My name is Ilya Rybalkin.
 - 👨‍🎓 I am a second-year MIPT DAFE/RSE student.
-- 👀 I am passionate about science, programming, physics and math.
-- 🌱 I am currently learning C++, Python, Data Bases, Operating systems, algorithms and data structures.
-- 🧪 Contributing on the protein sequence analysis project (see GitLab).
+- 👀 Passionate about science, programming, physics and math.
+- 🌱 Currently learning Operating systems, algorithms and data structures.
+- 🧪 C++, Python, SQL developer.
 - 💞️ I would like to work on interesting projects and science-intensive tasks.
 - 📫 How to contact me: via Telegram or VK
 <div style="display: flex; justify-content: center; align-items: center;">

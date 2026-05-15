@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Stargazer2005. My name is Ilya Rybalkin.
-- 👨‍🎓 I am a second-year MIPT DAFE/RSE student.
+- 👨‍🎓 I am a third-year MIPT DAFE/RSE student.
 - 👀 Passionate about programming, math, science and physics.
 - 🌱 Currently on summer vacation, working on my self-improvemenе, in search of working experience.
 - 🧪 C/C++, Python, SQL developer; Docker, K8s.
